@@ -1,0 +1,19 @@
+[core]
+	editor = nvim
+[color]
+	ui = auto
+[alias]
+	a = add
+	d = diff
+	co = checkout
+	ci = commit
+	ps = push origin
+	pl = pull origin
+	st = status
+	br = branch
+	olog = log --oneline
+[user]
+	name = Naffah Abdulla Rasheed
+	email = mail@naffah.me
+[github]
+	user = n4ff4h
