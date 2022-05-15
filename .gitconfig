@@ -17,3 +17,5 @@
 	email = mail@naffah.me
 [github]
 	user = n4ff4h
+[init]
+	defaultBranch = main
